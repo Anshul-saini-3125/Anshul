@@ -1,3 +1,3 @@
 # Anshul
 This is my first GIT Repository
-My Name is ANshul Saini
+My Name is Anshul Saini
